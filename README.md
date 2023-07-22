@@ -1,4 +1,4 @@
-# Stock Market Data Engineering Project with Apache Kafka and AWS
+# Stock Market Data Pipeline Project with Apache Kafka and AWS
 
 ## Introduction
 
