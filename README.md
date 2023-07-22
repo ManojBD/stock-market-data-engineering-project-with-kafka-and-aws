@@ -1,4 +1,4 @@
-# Stock Market Data Engineering with Apache Kafka and AWS
+# Stock Market Data Engineering Project with Apache Kafka and AWS
 
 ## Introduction
 
@@ -10,7 +10,7 @@ I completed this project by following a tutorial created by [Darshil Parmar](htt
 
 ## Architecture
 
-(./Architecture.jpg)
+![Architecture](./Architecture.jpg)
 
 ## Technology Used
 
